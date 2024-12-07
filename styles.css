@@ -1,6 +1,6 @@
 body {
     color: rgb(12, 6, 6);
-    background: rgb(75, 74, 74);
+    background: rgb(7, 0, 0);
     margin: 0px;
     font-family: "Bokor", system-ui;
 }
@@ -45,4 +45,13 @@ img{
 .categoria {
     padding-left: 20px;
     padding-right: 20px;
+}
+
+.categoria-videos img {
+opacity: 0,5;
+}
+
+.categoria-videos img:hover {
+opacity: 1.0;
+border: 1px solid orange;
 }
