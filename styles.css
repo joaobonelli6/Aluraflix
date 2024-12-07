@@ -3,6 +3,7 @@ body {
     background: rgb(7, 0, 0);
     margin: 0px;
     font-family: "Bokor", system-ui;
+    margin-bottom: 100px;
 }
 
 header {
@@ -42,6 +43,7 @@ p{
 .categoria {
     padding-left: 20px;
     padding-right: 20px;
+    margin-top: 50px;
 }
 
 .categoria-videos img {
