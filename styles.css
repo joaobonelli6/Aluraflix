@@ -50,7 +50,6 @@ p{
     opacity: 0,3;
     height: 200px;
 }
-
 .categoria-videos img:hover {
     opacity: 1.0;
     border: 1px solid orange;
